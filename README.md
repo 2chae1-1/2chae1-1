@@ -14,22 +14,7 @@
 
 ## `02 /` PROJECTS
 
-### 이상형 구절판
-
-[View Repository →](여기에_REPOSITORY_URL)
-
-</td>
-<td width="50%" valign="top">
-
-<sub>04 · PERSONAL PROJECT</sub>
-
-### NYPC Project
-
-[View Repository →](여기에_REPOSITORY_URL)
-
-</td>
-</tr>
-</table>
+<sub>Currently organizing and improving my projects.</sub>
 
 <br>
 
