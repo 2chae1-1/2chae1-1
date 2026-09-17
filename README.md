@@ -14,33 +14,6 @@
 
 ## `02 /` PROJECTS
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<sub>01 · COURSE PROJECT</sub>
-
-### KHU Bus App
-
-[View Repository →](여기에_REPOSITORY_URL)
-
-</td>
-<td width="50%" valign="top">
-
-<sub>02 · COURSE PROJECT</sub>
-
-### Project Name
-
-[View Repository →](여기에_REPOSITORY_URL)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<sub>03 · SIDE PROJECT</sub>
-
 ### 이상형 구절판
 
 [View Repository →](여기에_REPOSITORY_URL)
