@@ -12,7 +12,7 @@
 
 ## `02 /` PROJECTS
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -67,19 +67,19 @@
 <img src="https://img.shields.io/badge/Dart-CDEFF4?style=flat&logo=dart&logoColor=1685A9">
 <img src="https://img.shields.io/badge/C++-DCE5FA?style=flat&logo=cplusplus&logoColor=4D6FA9">
 
-<br><br>
+<br>
 
 <sub>DEVELOPMENT</sub><br>
 <img src="https://img.shields.io/badge/Flutter-D9EEFA?style=flat&logo=flutter&logoColor=3288B8">
 <img src="https://img.shields.io/badge/React-DDF5FA?style=flat&logo=react&logoColor=31869B">
 
-<br><br>
+<br>
 
 <sub>AI / VISION</sub><br>
 <img src="https://img.shields.io/badge/OpenCV-E8DDF7?style=flat&logo=opencv&logoColor=66528F">
 <img src="https://img.shields.io/badge/YOLOv8-F3DDF2?style=flat&logo=yolo&logoColor=8B5689">
 
-<br><br>
+<br>
 
 <sub>PLATFORM / TOOLS</sub><br>
 <img src="https://img.shields.io/badge/Git-FADDD5?style=flat&logo=git&logoColor=B6533C">
@@ -87,15 +87,19 @@
 <img src="https://img.shields.io/badge/Supabase-D9F2E3?style=flat&logo=supabase&logoColor=278A59">
 <img src="https://img.shields.io/badge/Vercel-E8E8EA?style=flat&logo=vercel&logoColor=333333">
 
+<br>
+
 ## `04 /` ACTIVITY
 
 <p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=2chae1-1&show_icons=true&hide_border=true"
     height="165"
+    alt="GitHub Stats"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=2chae1-1&layout=compact&hide_border=true"
     height="165"
+    alt="Top Languages"
   />
 </p>

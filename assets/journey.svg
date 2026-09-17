@@ -1,6 +1,10 @@
-<svg width="820" height="360" viewBox="0 0 820 360"
-     fill="none" xmlns="http://www.w3.org/2000/svg">
-
+<svg
+  width="820"
+  height="430"
+  viewBox="0 0 820 430"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
   <style>
     .card {
       fill: #ffffff;
@@ -76,15 +80,21 @@
   />
 
   <!-- Timeline -->
-  <line class="line"
-        x1="158" y1="67"
-        x2="158" y2="372"
-        stroke-width="2"/>
+  <line
+    class="line"
+    x1="158"
+    y1="67"
+    x2="158"
+    y2="372"
+    stroke-width="2"
+  />
 
   <!-- 2024.03 / University -->
-  <text class="date" x="58" y="72">2024.03</text>
+  <text class="date" x="58" y="72">
+    2024.03
+  </text>
 
-  <circle class="dot" cx="158" cy="68" r="6"/>
+  <circle class="dot" cx="158" cy="68" r="6" />
 
   <text class="title" x="188" y="65">
     Kyung Hee University
@@ -95,9 +105,11 @@
   </text>
 
   <!-- 2024.03 / Supporters -->
-  <text class="date" x="58" y="157">2024.03</text>
+  <text class="date" x="58" y="157">
+    2024.03
+  </text>
 
-  <circle class="dot" cx="158" cy="153" r="6"/>
+  <circle class="dot" cx="158" cy="153" r="6" />
 
   <text class="title" x="188" y="150">
     KHU Immersive Media Supporters
@@ -108,9 +120,11 @@
   </text>
 
   <!-- 2026.03 / Volunteer -->
-  <text class="date" x="58" y="242">2026.03</text>
+  <text class="date" x="58" y="242">
+    2026.03
+  </text>
 
-  <circle class="dot" cx="158" cy="238" r="6"/>
+  <circle class="dot" cx="158" cy="238" r="6" />
 
   <text class="title" x="188" y="235">
     KHU AI·SW Sharing Volunteer Group
@@ -121,9 +135,11 @@
   </text>
 
   <!-- 2026.08 / Hyundai -->
-  <text class="date" x="58" y="327">2026.08</text>
+  <text class="date" x="58" y="327">
+    2026.08
+  </text>
 
-  <circle class="dot" cx="158" cy="323" r="6"/>
+  <circle class="dot" cx="158" cy="323" r="6" />
 
   <text class="title" x="188" y="320">
     Hyundai AI Insight Campus
@@ -134,7 +150,9 @@
   </text>
 
   <!-- NOW -->
-  <circle class="dot" cx="158" cy="372" r="4"/>
-  <text class="now" x="188" y="376">NOW</text>
+  <circle class="dot" cx="158" cy="372" r="4" />
 
+  <text class="now" x="188" y="376">
+    NOW
+  </text>
 </svg>
