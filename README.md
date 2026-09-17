@@ -87,6 +87,15 @@
 <img src="https://img.shields.io/badge/Supabase-D9F2E3?style=flat&logo=supabase&logoColor=278A59">
 <img src="https://img.shields.io/badge/Vercel-E8E8EA?style=flat&logo=vercel&logoColor=333333">
 
-## `04 /` GITHUB
+## `04 /` ACTIVITY
 
-<!-- GitHub stats and activity will be added here. -->
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=2chae1-1&show_icons=true&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2chae1-1&layout=compact&hide_border=true"
+    height="165"
+  />
+</p>
