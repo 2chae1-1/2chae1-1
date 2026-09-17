@@ -1,4 +1,6 @@
-배우고, 만들고, 기록하며 나만의 방향을 찾아가고 있습니다.
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Chaewon GitHub Header" />
+</p>
 
 <br>
 
