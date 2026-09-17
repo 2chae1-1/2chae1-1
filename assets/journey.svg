@@ -1,0 +1,140 @@
+<svg width="820" height="430" viewBox="0 0 820 430"
+     fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .card {
+      fill: #ffffff;
+      stroke: #d8dee4;
+    }
+
+    .line {
+      stroke: #6f91b7;
+    }
+
+    .dot {
+      fill: #6f91b7;
+    }
+
+    .date {
+      fill: #6e7781;
+      font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    .title {
+      fill: #24292f;
+      font: 600 16px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    .description {
+      fill: #6e7781;
+      font: 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    .now {
+      fill: #6f91b7;
+      font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      letter-spacing: 1px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .card {
+        fill: #0d1117;
+        stroke: #30363d;
+      }
+
+      .title {
+        fill: #f0f6fc;
+      }
+
+      .date,
+      .description {
+        fill: #8b949e;
+      }
+
+      .line {
+        stroke: #7d9fc3;
+      }
+
+      .dot {
+        fill: #7d9fc3;
+      }
+
+      .now {
+        fill: #7d9fc3;
+      }
+    }
+  </style>
+
+  <!-- Card -->
+  <rect
+    class="card"
+    x="1"
+    y="1"
+    width="818"
+    height="428"
+    rx="14"
+  />
+
+  <!-- Timeline -->
+  <line class="line"
+        x1="158" y1="67"
+        x2="158" y2="372"
+        stroke-width="2"/>
+
+  <!-- 2024.03 / University -->
+  <text class="date" x="58" y="72">2024.03</text>
+
+  <circle class="dot" cx="158" cy="68" r="6"/>
+
+  <text class="title" x="188" y="65">
+    Kyung Hee University
+  </text>
+
+  <text class="description" x="188" y="88">
+    Dept. of Artificial Intelligence
+  </text>
+
+  <!-- 2024.03 / Supporters -->
+  <text class="date" x="58" y="157">2024.03</text>
+
+  <circle class="dot" cx="158" cy="153" r="6"/>
+
+  <text class="title" x="188" y="150">
+    KHU Immersive Media Supporters
+  </text>
+
+  <text class="description" x="188" y="173">
+    2024.03 — 2026.02
+  </text>
+
+  <!-- 2026.03 / Volunteer -->
+  <text class="date" x="58" y="242">2026.03</text>
+
+  <circle class="dot" cx="158" cy="238" r="6"/>
+
+  <text class="title" x="188" y="235">
+    KHU AI·SW Sharing Volunteer Group
+  </text>
+
+  <text class="description" x="188" y="258">
+    2026.03 — Present
+  </text>
+
+  <!-- 2026.08 / Hyundai -->
+  <text class="date" x="58" y="327">2026.08</text>
+
+  <circle class="dot" cx="158" cy="323" r="6"/>
+
+  <text class="title" x="188" y="320">
+    Hyundai AI Insight Campus
+  </text>
+
+  <text class="description" x="188" y="343">
+    On-Device AI · 2026.08 — Present
+  </text>
+
+  <!-- NOW -->
+  <circle class="dot" cx="158" cy="372" r="4"/>
+  <text class="now" x="188" y="376">NOW</text>
+
+</svg>

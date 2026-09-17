@@ -10,47 +10,9 @@
 
 ## `01 /` JOURNEY
 
-<table>
-<tr>
-<td width="110" valign="top"><sub>2024.03</sub></td>
-<td valign="top">
-
-**Kyung Hee University**  
-<sub>Dept. of Artificial Intelligence</sub>
-
-</td>
-</tr>
-
-<tr>
-<td width="110" valign="top"><sub>2024.03</sub></td>
-<td valign="top">
-
-**KHU Immersive Media Supporters**  
-<sub>2024.03 — 2026.02</sub>
-
-</td>
-</tr>
-
-<tr>
-<td width="110" valign="top"><sub>2026.03</sub></td>
-<td valign="top">
-
-**KHU AI·SW Sharing Volunteer Group**  
-<sub>2026.03 — Present</sub>
-
-</td>
-</tr>
-
-<tr>
-<td width="110" valign="top"><sub>2026.08</sub></td>
-<td valign="top">
-
-**Hyundai AI Insight Campus**  
-<sub>On-Device AI · 2026.08 — Present</sub>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/journey.svg" width="100%" alt="Chaewon Yi Journey Timeline" />
+</p>
 
 <br>
 
