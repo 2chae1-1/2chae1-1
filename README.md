@@ -12,8 +12,6 @@
 
 ## `02 /` PROJECTS
 
-## `02 /` PROJECTS
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -70,9 +68,40 @@
 
 ## `03 /` TECH STACK
 
-<!-- Tech stack will be added here. -->
+<sub>LANGUAGES</sub><br>
+
+![Python](https://img.shields.io/badge/Python-5F81A8?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5F81A8?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5F81A8?style=flat&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-5F81A8?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-5F81A8?style=flat&logo=cplusplus&logoColor=white)
 
 <br>
+
+<sub>DEVELOPMENT</sub><br>
+
+![Flutter](https://img.shields.io/badge/Flutter-5F81A8?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-5F81A8?style=flat&logo=react&logoColor=white)
+
+<br>
+
+<sub>AI / VISION</sub><br>
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5F81A8?style=flat&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-5F81A8?style=flat&logo=yolo&logoColor=white)
+
+<br>
+
+<sub>PLATFORM / TOOLS</sub><br>
+
+![Git](https://img.shields.io/badge/Git-5F81A8?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5F81A8?style=flat&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-5F81A8?style=flat&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-5F81A8?style=flat&logo=vercel&logoColor=white)
+
+<br>
+
+## `04 /` GITHUB
 
 ## `04 /` GITHUB
 
