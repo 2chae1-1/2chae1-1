@@ -61,28 +61,31 @@
 ## `03 /` TECH STACK
 
 <sub>LANGUAGES</sub><br>
-![Python](https://img.shields.io/badge/Python-DCEEFF?style=flat&logo=python&logoColor=315A7D)
-![TypeScript](https://img.shields.io/badge/TypeScript-DCEEFF?style=flat&logo=typescript&logoColor=315A7D)
-![JavaScript](https://img.shields.io/badge/JavaScript-DCEEFF?style=flat&logo=javascript&logoColor=315A7D)
-![Dart](https://img.shields.io/badge/Dart-DCEEFF?style=flat&logo=dart&logoColor=315A7D)
-![C++](https://img.shields.io/badge/C++-DCEEFF?style=flat&logo=cplusplus&logoColor=315A7D)
+<img src="https://img.shields.io/badge/Python-FFE7A8?style=flat&logo=python&logoColor=3F5F7F">
+<img src="https://img.shields.io/badge/TypeScript-CFE5FA?style=flat&logo=typescript&logoColor=3178C6">
+<img src="https://img.shields.io/badge/JavaScript-FFF1A8?style=flat&logo=javascript&logoColor=665C00">
+<img src="https://img.shields.io/badge/Dart-CDEFF4?style=flat&logo=dart&logoColor=1685A9">
+<img src="https://img.shields.io/badge/C++-DCE5FA?style=flat&logo=cplusplus&logoColor=4D6FA9">
 
-<br>
+<br><br>
+
 <sub>DEVELOPMENT</sub><br>
-![Flutter](https://img.shields.io/badge/Flutter-DCEEFF?style=flat&logo=flutter&logoColor=315A7D)
-![React](https://img.shields.io/badge/React-DCEEFF?style=flat&logo=react&logoColor=315A7D)
+<img src="https://img.shields.io/badge/Flutter-D9EEFA?style=flat&logo=flutter&logoColor=3288B8">
+<img src="https://img.shields.io/badge/React-DDF5FA?style=flat&logo=react&logoColor=31869B">
 
-<br>
+<br><br>
+
 <sub>AI / VISION</sub><br>
-![OpenCV](https://img.shields.io/badge/OpenCV-DCEEFF?style=flat&logo=opencv&logoColor=315A7D)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-DCEEFF?style=flat&logo=yolo&logoColor=315A7D)
+<img src="https://img.shields.io/badge/OpenCV-E8DDF7?style=flat&logo=opencv&logoColor=66528F">
+<img src="https://img.shields.io/badge/YOLOv8-F3DDF2?style=flat&logo=yolo&logoColor=8B5689">
 
-<br>
+<br><br>
+
 <sub>PLATFORM / TOOLS</sub><br>
-![Git](https://img.shields.io/badge/Git-DCEEFF?style=flat&logo=git&logoColor=315A7D)
-![GitHub](https://img.shields.io/badge/GitHub-DCEEFF?style=flat&logo=github&logoColor=315A7D)
-![Supabase](https://img.shields.io/badge/Supabase-DCEEFF?style=flat&logo=supabase&logoColor=315A7D)
-![Vercel](https://img.shields.io/badge/Vercel-DCEEFF?style=flat&logo=vercel&logoColor=315A7D)
+<img src="https://img.shields.io/badge/Git-FADDD5?style=flat&logo=git&logoColor=B6533C">
+<img src="https://img.shields.io/badge/GitHub-E4E6EA?style=flat&logo=github&logoColor=40444A">
+<img src="https://img.shields.io/badge/Supabase-D9F2E3?style=flat&logo=supabase&logoColor=278A59">
+<img src="https://img.shields.io/badge/Vercel-E8E8EA?style=flat&logo=vercel&logoColor=333333">
 
 ## `04 /` GITHUB
 
