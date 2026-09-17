@@ -91,15 +91,15 @@
 
 ## `04 /` ACTIVITY
 
-<p align="left">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=2chae1-1&show_icons=true&hide_border=true"
     height="165"
+    src="./assets/stats.svg"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2chae1-1&layout=compact&hide_border=true"
     height="165"
+    src="./assets/top-langs.svg"
     alt="Top Languages"
   />
 </p>
