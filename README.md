@@ -6,9 +6,7 @@
 
 ## `01 /` JOURNEY
 
-<p align="center">
-  <img src="./assets/journey.svg" width="100%" alt="Journey Timeline" />
-</p>
+
 
 <br>
 
@@ -22,10 +20,9 @@
 
 <sub>LANGUAGES</sub><br>
 <img src="https://img.shields.io/badge/Python-FFE7A8?style=flat&logo=python&logoColor=3F5F7F">
-<img src="https://img.shields.io/badge/TypeScript-CFE5FA?style=flat&logo=typescript&logoColor=3178C6">
+<img src="https://img.shields.io/badge/C++-DCE5FA?style=flat&logo=cplusplus&logoColor=4D6FA9">
 <img src="https://img.shields.io/badge/JavaScript-FFF1A8?style=flat&logo=javascript&logoColor=665C00">
 <img src="https://img.shields.io/badge/Dart-CDEFF4?style=flat&logo=dart&logoColor=1685A9">
-<img src="https://img.shields.io/badge/C++-DCE5FA?style=flat&logo=cplusplus&logoColor=4D6FA9">
 
 <br>
 
@@ -37,7 +34,6 @@
 
 <sub>AI / VISION</sub><br>
 <img src="https://img.shields.io/badge/OpenCV-E8DDF7?style=flat&logo=opencv&logoColor=66528F">
-<img src="https://img.shields.io/badge/YOLOv8-F3DDF2?style=flat&logo=yolo&logoColor=8B5689">
 
 <br>
 
